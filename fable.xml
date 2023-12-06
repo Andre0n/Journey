@@ -2,6 +2,9 @@
     <page background="bg.png">
         <agent x="10" y="150" img="1.png" width="160" height="220">
         </agent>
-        
+        <agent x="200" y="150" img="2.png" width="160" height="220">
+        </agent>
+        <agent x="10" y="150" img="3.png" width="160" height="220">
+        </agent>
     </page>
 </fable>

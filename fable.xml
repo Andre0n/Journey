@@ -18,7 +18,7 @@
         </agent>
     </page>
     <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">
+        <agent x="0" y="0" text="_" width="550" height="550">
         </agent>
         <agent x="10" y="300" text="Após escolher o Caminho Sombrio, você enfrentou as criaturas das sombras com destemor, provando ser um verdadeiro herói. Profundamente na floresta, você descobre um antigo santuário, onde uma entidade ancestral concede a você conhecimentos mágicos perdidos há eras. A sabedoria recém-adquirida não apenas fortalece suas habilidades, mas também revela um caminho secreto para alcançar o coração de Eldoria. Você continua sua jornada com confiança renovada, pronto para enfrentar desafios ainda maiores." on-touch="_GOTO_PAGE:3">
         </agent>
@@ -30,7 +30,7 @@
         </agent>
     </page>
     <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">
+        <agent x="0" y="0" text="_" width="550" height="550">
         </agent>
         <agent x="10" y="300" text="Seu aliado inesperado revela-se um feiticeiro habilidoso, cumprindo suas promessas e se tornando um valioso companheiro. Juntos, vocês enfrentam obstáculos formidáveis, e o aliado prova ser uma peça-chave para desvendar os mistérios de Eldoria. No entanto, nos momentos finais, ele revela sua verdadeira intenção. Traído e em desvantagem, você enfrenta uma escolha difícil: perdoar ou se vingar. Sua decisão afeta não apenas seu destino, mas também o destino de Eldoria.
 

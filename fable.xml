@@ -10,6 +10,8 @@
         </agent>
     </page>
     <page background="bg.png">
+        <agent x="0" y="0" width="550" height="550">
+        </agent>
         <agent x="10" y="360" text="Você se depara com uma bifurcação na estrada enquanto viaja por Eldoria. À sua esquerda, o Caminho Sombrio, uma trilha estreita que serpenteia por uma floresta antiga e misteriosa, coberta pela sombra de árvores centenárias. A lenda conta que este caminho esconde segredos ocultos, mas também é conhecido por abrigar criaturas das trevas." on-touch="_GOTO_PAGE:3">
         </agent>
     </page>

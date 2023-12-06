@@ -1,8 +1,10 @@
 <fable>
     <page background="bg.png">
-        <agent x="10" y="150" img="1.png" width="160" height="220" on-touch="_GOTO_PAGE:2">
+        <agent x="10" y="360" text="Você se depara com uma bifurcação na estrada enquanto viaja por Eldoria. À sua esquerda, o Caminho Sombrio, uma trilha estreita que serpenteia por uma floresta antiga e misteriosa, coberta pela sombra de árvores centenárias. A lenda conta que este caminho esconde segredos ocultos, mas também é conhecido por abrigar criaturas das trevas.">
         </agent>
-        <agent x="170" y="150" img="2.png" width="160" height="220">
+        <agent x="10" y="50" img="1.png" width="160" height="220" on-touch="_GOTO_PAGE:2">
+        </agent>
+        <agent x="170" y="50" img="2.png" width="160" height="220">
         </agent>
         <agent x="330" y="150" img="3.png" width="160" height="220">
         </agent>

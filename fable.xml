@@ -44,7 +44,7 @@
         </agent>   
     </page>
     <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">
+        <agent x="0" y="0" text="_" width="550" height="550">
         </agent>
         <agent x="10" y="300" text="Conquistando os desafios elementares, você domina o poder de um dos quatro elementos. Seja manipulando chamas, controlando águas turbulentas, moldando a terra ou voando pelos céus, você se torna um ser imbuido com uma energia cósmica. Essa transformação não apenas fortalece sua jornada, mas também altera o equilíbrio de Eldoria. Ao chegar ao coração do mundo mágico, você enfrenta uma escolha crucial: usar seus novos poderes para proteger ou dominar Eldoria. O destino do reino depende de sua decisão." on-touch="_GOTO_PAGE:3">
         </agent>

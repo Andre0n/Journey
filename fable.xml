@@ -6,7 +6,7 @@
         </agent>
         <agent x="170" y="50" img="2.png" width="160" height="220" on-touch="_GOTO_PAGE:4">
         </agent>
-        <agent x="330" y="50" img="3.png" width="160" height="220" o>
+        <agent x="330" y="50" img="3.png" width="160" height="220" on-touch="_GOTO_PAGE:6">
         </agent>
     </page>
     <page background="bg.png">
@@ -40,8 +40,7 @@
         </agent>
         <agent x="10" y="360" text="Você chega a uma câmara oculta protegida pelos espíritos dos elementos. Cada porta leva a um desafio relacionado a um elemento específico - terra, fogo, água ou ar. Escolher qual desafio enfrentar torna-se crucial para o sucesso de sua jornada." on-touch="_GOTO_PAGE:3">
         </agent>
-         <agent x="10" y="360" text="Poder Elemental: Vencer o desafio concede ao seu personagem um poder associado ao elemento escolhido, como manipulação de fogo ou controle sobre a água." on-touch="_GOTO_PAGE:3">
-        </agent>
+       
     </page>
     <page background="bg.png">
         <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">

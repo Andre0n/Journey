@@ -4,7 +4,7 @@
         </agent>
         <agent x="10" y="50" img="1.png" width="160" height="220" on-touch="_GOTO_PAGE:2">
         </agent>
-        <agent x="170" y="50" img="2.png" width="160" height="220">
+        <agent x="170" y="50" img="2.png" width="160" height="220" on-touch="_GOTO_PAGE:4">
         </agent>
         <agent x="330" y="50" img="3.png" width="160" height="220">
         </agent>
@@ -20,7 +20,18 @@
         </agent>
         <agent x="10" y="300" text="Após escolher o Caminho Sombrio, você enfrentou as criaturas das sombras com destemor, provando ser um verdadeiro herói. Profundamente na floresta, você descobre um antigo santuário, onde uma entidade ancestral concede a você conhecimentos mágicos perdidos há eras. A sabedoria recém-adquirida não apenas fortalece suas habilidades, mas também revela um caminho secreto para alcançar o coração de Eldoria. Você continua sua jornada com confiança renovada, pronto para enfrentar desafios ainda maiores." on-touch="_GOTO_PAGE:3">
         </agent>
-        
+    </page>
+    <page background="bg.png">
+        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:3">
+        </agent>
+        <agent x="10" y="360" text="Ajuda Valiosa: O aliado inesperado se revela um feiticeiro habilidoso, fornecendo suporte mágico crucial em batalhas." on-touch="_GOTO_PAGE:3">
+        </agent>
+    </page>
+    <page background="bg.png">
+        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">
+        </agent>
+        <agent x="10" y="300" text="Após escolher o Caminho Sombrio, você enfrentou as criaturas das sombras com destemor, provando ser um verdadeiro herói. Profundamente na floresta, você descobre um antigo santuário, onde uma entidade ancestral concede a você conhecimentos mágicos perdidos há eras. A sabedoria recém-adquirida não apenas fortalece suas habilidades, mas também revela um caminho secreto para alcançar o coração de Eldoria. Você continua sua jornada com confiança renovada, pronto para enfrentar desafios ainda maiores." on-touch="_GOTO_PAGE:3">
+        </agent>
     </page>
     <page background="bg.png">
         <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:3">
@@ -33,19 +44,5 @@
         </agent>
         <agent x="10" y="300" text="Após escolher o Caminho Sombrio, você enfrentou as criaturas das sombras com destemor, provando ser um verdadeiro herói. Profundamente na floresta, você descobre um antigo santuário, onde uma entidade ancestral concede a você conhecimentos mágicos perdidos há eras. A sabedoria recém-adquirida não apenas fortalece suas habilidades, mas também revela um caminho secreto para alcançar o coração de Eldoria. Você continua sua jornada com confiança renovada, pronto para enfrentar desafios ainda maiores." on-touch="_GOTO_PAGE:3">
         </agent>
-        
-    </page>
-    <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:3">
-        </agent>
-        <agent x="10" y="360" text="Você se depara com uma bifurcação na estrada enquanto viaja por Eldoria. À sua esquerda, o Caminho Sombrio, uma trilha estreita que serpenteia por uma floresta antiga e misteriosa, coberta pela sombra de árvores centenárias. A lenda conta que este caminho esconde segredos ocultos, mas também é conhecido por abrigar criaturas das trevas." on-touch="_GOTO_PAGE:3">
-        </agent>
-    </page>
-    <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:4">
-        </agent>
-        <agent x="10" y="300" text="Após escolher o Caminho Sombrio, você enfrentou as criaturas das sombras com destemor, provando ser um verdadeiro herói. Profundamente na floresta, você descobre um antigo santuário, onde uma entidade ancestral concede a você conhecimentos mágicos perdidos há eras. A sabedoria recém-adquirida não apenas fortalece suas habilidades, mas também revela um caminho secreto para alcançar o coração de Eldoria. Você continua sua jornada com confiança renovada, pronto para enfrentar desafios ainda maiores." on-touch="_GOTO_PAGE:3">
-        </agent>
-        
     </page>
 </fable>

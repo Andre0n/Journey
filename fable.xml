@@ -22,9 +22,9 @@
         </agent>
     </page>
     <page background="bg.png">
-        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:3">
+        <agent x="0" y="0" text="_" width="550" height="550" on-touch="_GOTO_PAGE:5">
         </agent>
-        <agent x="10" y="360" text="Ajuda Valiosa: O aliado inesperado se revela um feiticeiro habilidoso, fornecendo suporte mágico crucial em batalhas." on-touch="_GOTO_PAGE:3">
+        <agent x="10" y="360" text="Ajuda Valiosa: O aliado inesperado se revela um feiticeiro habilidoso, fornecendo suporte mágico crucial em batalhas." on-touch="_GOTO_PAGE:5">
         </agent>
     </page>
     <page background="bg.png">
